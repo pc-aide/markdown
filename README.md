@@ -7,3 +7,4 @@
 |-|----|-----|----|---|
 |1|`&ensp;`|Two spaces||
 |2|``|toggle||
+|3|`<details><summary>Answer 1</summary>True</details>`|`|<details><summary>Answer</summary>True</details>|
